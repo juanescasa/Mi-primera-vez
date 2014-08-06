@@ -4,7 +4,7 @@ Luis escribe algo en las siguientes dos líneas
 linea1
 linea2
 
-Juan va a escribir en las siguientes 4
+Juen va a escribir en las siguientes 4
 Esta es 1
 2
 3
